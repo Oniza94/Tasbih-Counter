@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.intro{
+  background-color: rgb(28, 3, 39);
+  color: white;
+  justify-content: center;
+  padding: 0%;
+  text-align:center;
+  margin-top: 50px;
+  text-justify: newspaper;
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  font-display:initial;
+
+  
+}
